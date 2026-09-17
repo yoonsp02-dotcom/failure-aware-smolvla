@@ -1,0 +1,11 @@
+name: failure-aware-vla
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ffmpeg=7.1.1
+  - evdev
+  - cmake>=3.29,<4
+  - make
+  - cxx-compiler
+  - pip
